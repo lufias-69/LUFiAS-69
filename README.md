@@ -21,7 +21,7 @@ Yo, I'm Saiful — a game & web dev who's been crafting cool stuff for years. I 
   <a href="https://fb.com/x.lufias" target="_blank">Facebook</a> •
   <a href="https://instagram.com/x_lufias" target="_blank">Instagram</a> •
   <a href="https://www.linkedin.com/in/saiful-anik" target="_blank">LinkedIn</a> •
-  <a href="https://t.me/x_lufias" target="_blank">Telegram</a>
+  <a href="https://t.me/xlufias" target="_blank">Telegram</a>
 </p>
 
 ---
