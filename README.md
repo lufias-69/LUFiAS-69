@@ -1,37 +1,50 @@
-<h1 align="center"><p>Saiful Islam Anik</p></h1>
-<h3 align="center">Student | Programmer | Game developer</h3>
+<div align="center">
+  <h1>Hey, I'm Saiful Anik 👾</h1>
+  <h3>✨ Student | Web & Game Dev | Lowpoly & Anime Fan | Digital Dreamer</h3>
+</div>
 
+---
 
-- <p align="left">✨ Creating bugs since 2018</p>
-- 📫 How to reach me **dev_lufias@icloud.com**
+### 🌀 Quick Intro
+Yo, I'm Saiful — a game & web dev who's been crafting cool stuff for years. I love bringing creative ideas to life, fixing messy projects, and shipping things that actually work. Chill to work with, but serious about results.
 
+---
+
+- 🐞 Creating bugs since 2018 (sometimes I fix them too).
+- 📨 Slide into my inbox: **dev_lufias@icloud.com**
+- 🌐 Check out my portfolio: [saiful-anik.netlify.app](https://saiful-anik.netlify.app/)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/x.lufias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="x.lufias" height="30" width="40" /></a>
-<a href="https://instagram.com/x_lufias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_lufias" height="30" width="40" /></a>
+  <a href="https://fb.com/x.lufias" target="_blank">Facebook</a> •
+  <a href="https://instagram.com/x_lufias" target="_blank">Instagram</a> •
+  <a href="https://www.linkedin.com/in/saiful-anik" target="_blank">LinkedIn</a> •
+  <a href="https://t.me/x_lufias" target="_blank">Telegram</a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### ⚡️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-</div>
+**Languages:**  
+`C#` `Java` `JavaScript` `TypeScript` `Tailwind CSS` `HTML` `CSS` `JSON`
 
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity logo" width="35" height="35"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
-</div>
+**Frameworks / Engines:**  
+`Unity` `React` `Vite` `Minecraft (Data packs & mods)` 
 
+**Cloud & Databases:**  
+`Firebase` `Supabase`
+
+**Design & Creative:**  
+`Figma` `Canva` `Adobe Illustrator` `Blender` `Audacity`
+
+
+*Always exploring new tech & tools!* 🚀
+
+---
+
+### 💬 Let’s Talk!
+Always down for collabs, code memes, or anime rants.  
+Drop a DM — let’s make something cool together!
